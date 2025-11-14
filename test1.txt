@@ -1,1 +1,21 @@
+Athul
+is a good boy. 
+Hello world This is a demo on linux. 
+We are currently exploring all the commands in linux
+1
+2
+Hello
+3
+4
+5
+6
+7
+Athul
+8
+10
+eleven
+twelve
+Cloned repository
+rihan
+Updated for branch testing
 This is a sample test file, I made the changes
