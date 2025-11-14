@@ -1,5 +1,5 @@
 Athul
-is a good boy. 
+is a bad boy. 
 Hello world This is a demo on linux. 
 We are currently exploring all the commands in linux
 1
